@@ -4,6 +4,8 @@ Imagine two players, side by side, playing a classic arcade game, using professi
 
 We’ll be using the single-elimination tournament system with four rounds. Sixteen players in the first round, then eight for the quarterfinals, then four for the semifinals and then finally, two lucky players will dispute the final. On every round, the computer will pick the opponents randomly.
 
+More [info here][1].
+
 ### Qualifiers
 
 If you want to be part of the first sixteen players of the tournament, then you need to qualify before Pixels Camp and prove you’re worthy to participate. Here’s what you need to do.
@@ -44,5 +46,5 @@ Here's the top sixteen players qualified for this year's CGC:
  * ...
  * ...
 
-[1]: https://medium.com/pixels-camp/83b679058bd3
+[1]: https://blog.pixels.camp/chasing-ghosts-challenge-83b679058bd3
 [2]: https://github.com/PixelsCamp/challenges/issues/new?labels=Chasing+Ghosts
