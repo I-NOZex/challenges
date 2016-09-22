@@ -13,7 +13,7 @@ If you want to be part of the first sixteen players of the tournament, then you 
  * Pick one or more of the four games.
  * Make the best score you can.
  * Pick your smartphone, take a picture of you next to the high-score. Make sure the picture is crystal clear.
- * Create an [issue here][2] (using the label “Chasing Ghosts”) and upload your screenshot to it (you can just drag and drop your screenshot file to the Github issue form).
+ * Create an [issue here][2] (using the prefix title “[Chasing Ghosts]”) and upload your screenshot to it (you can just drag and drop your screenshot file to the Github issue form).
  * Wait. If you’re one of the best, then your name will show up in the leaderboard below.
 
 Here's the top sixteen players qualified for this year's CGC:
