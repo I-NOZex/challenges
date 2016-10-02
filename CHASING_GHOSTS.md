@@ -29,7 +29,7 @@ Here's the top sixteen players qualified for this year's CGC:
 
  * 259500 by [Luis Costa](https://github.com/costalat) (proof [here](https://github.com/PixelsCamp/challenges/issues/4))
  * 238600 by [Joaquim Mendes](https://github.com/Joca64) (proof [here](https://github.com/PixelsCamp/challenges/issues/7))
- * ...
+ * 121900 by [João Fernandes](https://github.com/JSFernandes) (proof [here](https://github.com/PixelsCamp/challenges/issues/8))
  * ...
 
 **Bomb Jack**
