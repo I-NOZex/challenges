@@ -30,21 +30,21 @@ Here's the top sixteen players qualified for this year's CGC:
 
  * 259500 by [Luis Costa](https://github.com/costalat) (proof [here](https://github.com/PixelsCamp/challenges/issues/4))
  * 238600 by [Joaquim Mendes](https://github.com/Joca64) (proof [here](https://github.com/PixelsCamp/challenges/issues/7))
+ * 135300 by [Luis Costa](https://github.com/ldpcosta) (proof [here](https://github.com/PixelsCamp/challenges/issues/12))
  * 121900 by [João Fernandes](https://github.com/JSFernandes) (proof [here](https://github.com/PixelsCamp/challenges/issues/8))
- * ...
 
 **Bomb Jack**
  
  * 646270 by [Joaquim Mendes](https://github.com/Joca64) (proof [here](https://github.com/PixelsCamp/challenges/issues/5))
  * 300320 by [José Teixeira](https://github.com/phoenity) (proof [here](https://github.com/PixelsCamp/challenges/issues/1))
- * ...
+ * 20580 by [Luis Correia](https://github.com/luisfcorreia) (proof [here](https://github.com/PixelsCamp/challenges/issues/10))
  * ...
 
 **Moon Patrol**
 
  * 81840 by [Joaquim Mendes](https://github.com/Joca64) (proof [here](https://github.com/PixelsCamp/challenges/issues/6))
  * 50450 by [Celso Martinho](https://github.com/celso) (proof [here](https://github.com/PixelsCamp/challenges/issues/2))
- * ...
+ * 9250 by [Luis Correia](https://github.com/luisfcorreia) (proof [here](https://github.com/PixelsCamp/challenges/issues/11))
  * ...
 
 [1]: https://blog.pixels.camp/chasing-ghosts-challenge-83b679058bd3
