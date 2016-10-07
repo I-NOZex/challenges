@@ -33,6 +33,10 @@ But we will definitely make it worth your while — the bifanas will not jus
 
 Yummy, huh?
 
+![Image](https://github.com/PixelsCamp/challenges/blob/master/img/social.jpg?raw=true)
+
+_[Eat Tasty][3] is incubated by [Bright Pixel][4]__
+
 If you think you have what it takes then...
 
 ## How to sign up
@@ -47,3 +51,5 @@ _(original post [here][2])_
 
 [1]: https://brpx.typeform.com/to/z26H7B
 [2]: https://blog.pixels.camp/the-hell-in-a-bun-challenge-8a7bd3aa3b77#.ie5nhmf0p
+[3]: https://www.eattasty.com/
+[4]: http://brpx.com/
