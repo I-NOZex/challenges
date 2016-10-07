@@ -11,5 +11,5 @@ Documentation, rules and leadboards for the Pixels Camp challenges:
 [1]: https://github.com/PixelsCamp/challenges/blob/master/CHASING_GHOSTS.md
 [2]: https://pixels-camp-challenges.herokuapp.com/
 [3]: https://pixels-camp-security-ctf.herokuapp.com/
-[4]: https://blog.pixels.camp/the-hell-in-a-bun-challenge-8a7bd3aa3b77#.7rlurj8j5
+[4]: https://github.com/PixelsCamp/challenges/blob/master/HELL_IN_A_BUN_CHALLENGE.md
 [5]: https://github.com/PixelsCamp/karaoke-pitches
